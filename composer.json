@@ -1,0 +1,12 @@
+{
+    "name": "teknomuslim/currency-formatter",
+    "description": "simple currency number formatter",
+    "authors": [
+        {
+            "name": "Didik Tri Susanto",
+            "email": "rezd14@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
